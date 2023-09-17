@@ -1,0 +1,25 @@
+
+.container{
+    position: block;
+    margin: auto;
+    max-width: 400px;
+    width: 100%;
+    margin-top: 200px;
+    padding: 20px;
+    background-image: linear-gradient(rgb(18, 107, 241), rgb(55, 11, 125));
+    box-shadow: 5px 5px 10px 0.5px;
+}
+
+
+.text-center{
+    color: #fff;
+    font-family: cursive;
+}
+form{
+    color: #fff;
+    font-family: cursive;
+    
+}
+input{
+    box-shadow: 5px 5px 10px 0.5px;
+}

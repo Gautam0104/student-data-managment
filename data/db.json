@@ -1,0 +1,77 @@
+{
+  "student-data": [
+    {
+      "id": 1,
+      "name": "Gautam shukla",
+      "class": "12",
+      "age": "17",
+      "email": "gautamshukla@gmail.com",
+      "mobile": "1879853113646"
+    }
+  ],
+  "signup-data": [
+    {
+      "id": 1,
+      "name": "Gautam Shukla",
+      "email": "gautamshukla@gmail.com",
+      "pass": "1234",
+      "mob": 9876543212
+    },
+    {
+      "name": "Dipak Mishra",
+      "email": "dipak@gmail.com",
+      "pass": "9876",
+      "mob": "9876543218",
+      "id": 2
+    },
+    {
+      "name": "Dipak Mishra",
+      "email": "dipak@gmail.com",
+      "pass": "9876",
+      "mob": "9876543218",
+      "id": 3
+    },
+    {
+      "name": "shivam",
+      "email": "",
+      "pass": "",
+      "mob": "",
+      "id": 4
+    },
+    {
+      "name": "shivam",
+      "email": "",
+      "pass": "",
+      "mob": "",
+      "id": 5
+    },
+    {
+      "name": "shivam",
+      "email": "shivamtiwari@gmail.com",
+      "pass": "shivam123",
+      "mob": "9867546325",
+      "id": 6
+    },
+    {
+      "name": "gautam",
+      "email": "gautam@gamil.com",
+      "password": "122131",
+      "mobile": "55448656326",
+      "id": 7
+    },
+    {
+      "name": "gautam",
+      "email": "shukla@gmail.com",
+      "password": "gk123",
+      "mobile": "6392810104",
+      "id": 8
+    },
+    {
+      "name": "shivam",
+      "email": "shi@gmail.com",
+      "password": "123",
+      "mobile": "7896541230",
+      "id": 9
+    }
+  ]
+}

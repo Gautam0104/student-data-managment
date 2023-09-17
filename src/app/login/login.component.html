@@ -1,0 +1,28 @@
+<div class="pannel">
+  <div class="container">
+    <div class="text-center">
+        <h1 style="font-family:cursive;">Login</h1>
+        <h5 style="font-family:cursive;">Please enter email & password</h5>
+    </div>
+    <form  [formGroup]="loginForm" (ngSubmit)="login()">
+        <div class="mb-3">
+          <label for="exampleInputEmail1" class="form-label">Email address</label>
+          <input type="email" class="form-control" id="exampleInputEmail1"
+           aria-describedby="emailHelp" placeholder="Enter Your  EmailAddress"
+           formControlName="email" >
+          
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Password</label>
+          <input type="password" class="form-control" id="exampleInputPassword1"
+           placeholder="Enter Your Password" formControlName="password" >
+        </div>
+        
+        <div class="mb-3">
+            <button class="btn btn-primary" >Login</button>&nbsp;
+            <a routerLink="/signup" style="color: #fff;">New user Registration? clickhere</a>
+        </div>
+      </form>
+  </div>
+  
+</div>
